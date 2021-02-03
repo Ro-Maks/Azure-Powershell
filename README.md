@@ -1,5 +1,5 @@
 ## Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
 * [PowerShell File](#powershell-file)
 
 ## General Info
