@@ -7,4 +7,4 @@ This repo contains the PowerShell file that can be used during Part 1 of my "Azu
 
 ## PowerShell File
 You can find the PowerShell file [here](https://github.com/Ro-Maks/Azure-Powershell/blob/main/Azure-Resource-Creation-Script.ps1). Please follow the instructions within the file. 
-This script will create three Resource Groups(DEV,UAT,PROD) and three Data Factories(DEV,UAT,PROD). 
+This script will create three Resource Groups (DEV,UAT,PROD) and three Data Factories (DEV,UAT,PROD). 
