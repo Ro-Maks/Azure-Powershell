@@ -3,7 +3,7 @@
 * [PowerShell File](#powershell-file)
 
 ## General Info
-This repo contains the PowerShell file that can be used at the beginning of my blog; "Azure Data Factory CI/CD with DevOps Pipelines".
+This repo contains the PowerShell file that can be used at the beginning of my blog; ["Azure Data Factory CI/CD with DevOps Pipelines"](https://iterationinsights.com/article/azure-data-factory-ci-cd-with-devops-pipelines/).
 
 ## PowerShell File
 This script will create three Resource Groups (DEV,UAT,PROD) and three Data Factories (DEV,UAT,PROD) in your Azure Subscription. 
